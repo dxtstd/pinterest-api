@@ -8,8 +8,8 @@
 Pinterest API Scrapper
 ## Install
 ```bash
-yarn add github:DentaCH/pinterest-api
-cd node_modules/DentaCH/pinterest-api
+yarn add git:DentaCH/pinterest-api
+cd node_modules/pinterest-api
 npm build
 ```
 
@@ -17,7 +17,7 @@ npm build
 ### Search Keyword
 Search for pinterest pins by keyword:
 ```typescript
-import { Pinterest } from '@DentaCH/pinterest-api';
+import { Pinterest } from 'pinterest-api';
 
 const pinterest = new Pinterest();
 
