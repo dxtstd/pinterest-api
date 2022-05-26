@@ -14,8 +14,8 @@ npm build
 ```
 
 ## Example
-----
 ### Search Keyword
+Search for pinterest pins by keyword:
 ```typescript
 import { Pinterest } from '@DentaCH/pinterest-api';
 
