@@ -1,0 +1,35 @@
+{
+  "name": "pinterest-api",
+  "version": "0.0.1",
+  "description": "Pinterest API Scrapper",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "build:all": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DentaCH/pinterest-api.git"
+  },
+  "keywords": [
+    "pinterest",
+    "api",
+    "scrapper",
+    "web"
+  ],
+  "author": "DentaCH",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DentaCH/pinterest-api/issues"
+  },
+  "homepage": "https://github.com/DentaCH/pinterest-api#readme",
+  "dependencies": {
+    "@hapi/boom": "^10.0.0",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.35"
+  }
+}
