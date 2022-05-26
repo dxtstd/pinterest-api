@@ -8,7 +8,7 @@
 Pinterest API Scrapper
 ## Install
 ```bash
-yarn add git:DentaCH/pinterest-api
+yarn add github:DentaCH/pinterest-api
 cd node_modules/DentaCH/pinterest-api
 npm build
 ```

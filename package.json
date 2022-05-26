@@ -8,10 +8,7 @@
     "build": "tsc",
     "build:all": ""
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DentaCH/pinterest-api.git"
-  },
+  "repository": "git+https://github.com/DentaCH/pinterest-api",
   "keywords": [
     "pinterest",
     "api",
