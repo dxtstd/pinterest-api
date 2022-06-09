@@ -1,6 +1,6 @@
 <head>
     <a href="https://github.com/DentaCH/dxtstd-bot">
-        <img src="../../blob/assets/pinterest-api/banner.jpg"> </img>
+        <img src="../../blob/assets/banner.jpg"> </img>
     </a>
 </head>
 <body>
