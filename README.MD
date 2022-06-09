@@ -1,5 +1,5 @@
 <head>
-    <a href="https://github.com/DentaCH/dxtstd-bot">
+    <a href="https://github.com/DentaCH/pinterest-api">
         <img src="../../blob/assets/banner.jpg"> </img>
     </a>
 </head>
